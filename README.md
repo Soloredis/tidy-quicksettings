@@ -45,7 +45,11 @@ gnome-extensions prefs tidy-quicksettings@soloredis.github.io
 
 This is a personal project. I couldn't find a single extension that hides both top bar icons and Quick Settings items cleanly on GNOME 51.
 
-AI assistance was used for this extension, as I knew nothing about GNOME Shell development when I started. I code for fun, mostly mods for video games and Unity projects.
+AI assistance was used for this extension, as I knew nothing about GNOME Shell development when I started. 
+
+I code as a hobby, mostly mods for video games and Unity projects.
+
+My skill is mostly in C# and Unity Engine.
 
 ## License
 
