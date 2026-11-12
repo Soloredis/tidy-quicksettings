@@ -47,7 +47,7 @@ This is a personal project. I couldn't find a single extension that hides both t
 
 AI assistance was used for this extension, as I knew nothing about GNOME Shell development when I started.
 
-I code as a hobby, mostly mods for video games and Unity projects. My skill is mostly in C# and the Unity Engine.
+I code as a hobby, mostly mods for video games and Unity projects. My skill is mostly in C# and Unity Engine.
 
 ## License
 
