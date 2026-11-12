@@ -1,0 +1,9 @@
+{
+  "uuid": "tidy-quicksettings@soloredis.github.io",
+  "name": "Tidy Quick Settings",
+  "description": "Choose which Quick Settings items and top bar icons to hide, without leaving gaps.",
+  "shell-version": ["51"],
+  "settings-schema": "org.gnome.shell.extensions.tidy-quicksettings",
+  "url": "https://github.com/Soloredis/tidy-quicksettings",
+  "version": 1
+}

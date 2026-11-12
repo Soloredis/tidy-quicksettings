@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+    <schema id="org.gnome.shell.extensions.tidy-quicksettings"
+            path="/org/gnome/shell/extensions/tidy-quicksettings/">
+
+        <!-- Top bar icons -->
+        <key name="hide-icon-network" type="b"><default>false</default><summary>Hide the network icon</summary></key>
+        <key name="hide-icon-bluetooth" type="b"><default>false</default><summary>Hide the Bluetooth icon</summary></key>
+        <key name="hide-icon-volume" type="b"><default>false</default><summary>Hide the volume icon</summary></key>
+        <key name="hide-icon-power" type="b"><default>false</default><summary>Hide the power icon</summary></key>
+        <key name="hide-icon-power-mode" type="b"><default>false</default><summary>Hide the power mode icon</summary></key>
+        <key name="hide-icon-do-not-disturb" type="b"><default>false</default><summary>Hide the Do Not Disturb icon</summary></key>
+        <key name="hide-icon-night-light" type="b"><default>false</default><summary>Hide the Night Light icon</summary></key>
+        <key name="hide-icon-airplane-mode" type="b"><default>false</default><summary>Hide the Airplane Mode icon</summary></key>
+        <key name="hide-icon-auto-rotate" type="b"><default>false</default><summary>Hide the rotation lock icon</summary></key>
+        <key name="hide-icon-thunderbolt" type="b"><default>false</default><summary>Hide the Thunderbolt icon</summary></key>
+        <key name="hide-icon-unsafe-mode" type="b"><default>false</default><summary>Hide the unsafe mode icon</summary></key>
+
+        <!-- Privacy indicators -->
+        <key name="hide-icon-microphone" type="b"><default>false</default><summary>Hide the microphone in-use icon</summary></key>
+        <key name="hide-icon-camera" type="b"><default>false</default><summary>Hide the camera in-use icon</summary></key>
+        <key name="hide-icon-location" type="b"><default>false</default><summary>Hide the location in-use icon</summary></key>
+        <key name="hide-icon-screen-sharing" type="b"><default>false</default><summary>Hide the screen sharing icon</summary></key>
+
+        <!-- Top row buttons -->
+        <key name="hide-screenshot" type="b"><default>false</default><summary>Hide the Screenshot button</summary></key>
+        <key name="hide-settings" type="b"><default>false</default><summary>Hide the Settings button</summary></key>
+        <key name="hide-lock" type="b"><default>false</default><summary>Hide the Lock button</summary></key>
+        <key name="hide-shutdown" type="b"><default>false</default><summary>Hide the Power menu button</summary></key>
+
+        <!-- Sliders -->
+        <key name="hide-volume" type="b"><default>false</default><summary>Hide the Volume slider</summary></key>
+        <key name="hide-microphone" type="b"><default>false</default><summary>Hide the Microphone slider</summary></key>
+        <key name="hide-brightness" type="b"><default>false</default><summary>Hide the Brightness slider</summary></key>
+
+        <!-- Toggles -->
+        <key name="hide-wired" type="b"><default>false</default><summary>Hide the Wired toggle</summary></key>
+        <key name="hide-wifi" type="b"><default>false</default><summary>Hide the Wi-Fi toggle</summary></key>
+        <key name="hide-mobile-broadband" type="b"><default>false</default><summary>Hide the Mobile Broadband toggle</summary></key>
+        <key name="hide-bluetooth-tethering" type="b"><default>false</default><summary>Hide the Bluetooth Tethering toggle</summary></key>
+        <key name="hide-vpn" type="b"><default>false</default><summary>Hide the VPN toggle</summary></key>
+        <key name="hide-bluetooth" type="b"><default>false</default><summary>Hide the Bluetooth toggle</summary></key>
+        <key name="hide-power-mode" type="b"><default>false</default><summary>Hide the Power Mode toggle</summary></key>
+        <key name="hide-night-light" type="b"><default>false</default><summary>Hide the Night Light toggle</summary></key>
+        <key name="hide-dark-style" type="b"><default>false</default><summary>Hide the Dark Style toggle</summary></key>
+        <key name="hide-do-not-disturb" type="b"><default>false</default><summary>Hide the Do Not Disturb toggle</summary></key>
+        <key name="hide-keyboard-brightness" type="b"><default>false</default><summary>Hide the Keyboard Brightness toggle</summary></key>
+        <key name="hide-airplane-mode" type="b"><default>false</default><summary>Hide the Airplane Mode toggle</summary></key>
+        <key name="hide-auto-rotate" type="b"><default>false</default><summary>Hide the Auto Rotate toggle</summary></key>
+        <key name="hide-background-apps" type="b"><default>false</default><summary>Hide the Background Apps toggle</summary></key>
+
+    </schema>
+</schemalist>
